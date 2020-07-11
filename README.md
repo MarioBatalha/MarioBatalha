@@ -1,12 +1,11 @@
-### Hi there, Mário Batalha👋
+### Hi there, i'm Mário Batalha👋
 
 
- 🔭 I’m currently working as prolancer ...
- 🌱 I’m currently learning  Kubernetes and Microsoft Azure...
- 👯 I’m looking to collaborate and opportunity to put my career in the next level ...
- 🤔 I’m looking for help with ...
- 💬 My infoline...
- :computer: https://mariobatalha.me/
- ⚡ Opportunity did not knock until i build  door
+<li> 🔭 I’m currently working as prolancer</li>
+<li>🌱 I’m currently learning  Kubernetes and Microsoft Azure</li>
+<li>👯 I’m looking to collaborate and opportunity to put my career in the next level</li>
+<li>🤔 I’m looking for help with</li>
+ 💬 My portfolio :computer: https://mariobatalha.me/
+ <li>⚡ Opportunity did not knock until i build  door</li>
 
 ### Thank you to visit my profile
