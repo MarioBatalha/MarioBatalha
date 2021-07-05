@@ -41,12 +41,8 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mario Batalha's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Mario Batalha's Stack Overflow Profile" height="30" width="30">
-  </a>
-
   <a href="https://stackoverflow.com/users/14004075/m%c3%a1rio-batalha">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Mario Batalha's Stack Exchange Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Mario Batalha's Stack Exchange Profile" height="30" width="30">
   </a>
 
   
