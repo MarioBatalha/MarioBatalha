@@ -34,11 +34,11 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://dev.to/mariobatalha">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/m%C3%A1rio-batalha-silva-5a4068180/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin.svg" alt="Mario Batalha's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Mario Batalha's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/14004075/m%c3%a1rio-batalha">
