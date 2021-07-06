@@ -34,7 +34,7 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://dev.to/mariobatalha">
-    <img src="https://www.vectorlogo.zone/logos/medium/dev-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/medium/devTo-icon.svg" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/m%C3%A1rio-batalha-silva-5a4068180/">
