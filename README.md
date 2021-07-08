@@ -55,15 +55,4 @@ func GetBio() Bio {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-
-
 ---
