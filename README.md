@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-sportsAficionado hybrid",
+		"- ⚡ Quick bio:":                    "A kind of gearAddict-amateurMusician-traveler-foodLover-gamer-coder-Geek-programmer-sportsAficionado hybrid",
 		"- 🔭 I’m currently working ":     "As Front-End developer",
 		"- 🌱 I’m currently learning":        "Docker, Flutter, Python (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
 		"- 👯 I’m looking to collaborate on": "Flutter, Python and TS related projects",
